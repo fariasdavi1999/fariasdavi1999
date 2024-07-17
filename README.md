@@ -10,7 +10,6 @@ construir relacionamentos saudáveis e alcançar o sucesso em projetos e equipes
 
 
 ## 🔗 Links/Contato
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fariasdavi1999)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-farias-nasc)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fariasdavi1999@gmail.com)
 
