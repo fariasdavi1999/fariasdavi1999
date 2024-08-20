@@ -1,19 +1,19 @@
-
 # Davi Farias do Nascimento
 
 Olá me chamo Davi, sou Analista Desenvolvedor de software, sempre em desenvolvimento.
-Estabelecendo relações positivas com meus colegas de trabalho, e buscando sempre 
-ser uma pessoa colaborativa, ética e empática. Acredito que, através desses valores, 
-posso fazer a diferença tanto dentro quanto fora do ambiente de trabalho. O 
-aprimoramento contínuo de minhas habilidades interpessoais é fundamental para 
+Estabelecendo relações positivas com meus colegas de trabalho, e buscando sempre
+ser uma pessoa colaborativa, ética e empática. Acredito que, através desses valores,
+posso fazer a diferença tanto dentro quanto fora do ambiente de trabalho. O
+aprimoramento contínuo de minhas habilidades interpessoais é fundamental para
 construir relacionamentos saudáveis e alcançar o sucesso em projetos e equipes.
 
-
 ## 🔗 Links/Contato
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-farias-nasc)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fariasdavi1999@gmail.com)
 
 ## 🛠 Habilidades e Conhecimentos
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -30,3 +30,6 @@ construir relacionamentos saudáveis e alcançar o sucesso em projetos e equipes
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariasdavi1999&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2&custom_title=Minhas%20linguagens" alt="chart lang"/>
